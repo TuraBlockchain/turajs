@@ -1,23 +1,23 @@
 {
-  "name": "@signumjs/contracts",
-  "version": "1.0.0-rc.75",
-  "description": "Smart Contracts package for Signum Network",
+  "name": "@turajs/contracts",
+  "version": "1.0.0",
+  "description": "Smart Contracts package for Tura Network",
   "keywords": [
-    "signum",
-    "signum-network",
+    "tura",
+    "tura-network",
     "blockchain",
     "smartcontracts",
     "crypto",
     "cryptography",
     "cryptocoin",
-    "signumjs"
+    "turajs"
   ],
   "contributors": [
     "ohager"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/signum-network/signumjs"
+    "url": "https://github.com/TuraBlockchain/turajs"
   },
   "engines": {
     "node": ">=10"
@@ -54,7 +54,7 @@
     "readme": "jsdoc2md  --files ./src/*.ts --template ./README.md.hbs --configure ../../jsdoc2md.json > ./README.md"
   },
   "dependencies": {
-    "@signumjs/util": "^1.0.0-rc.75"
+    "@turajs/util": "^1.0.0"
   },
   "husky": {
     "hooks": {

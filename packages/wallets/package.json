@@ -1,16 +1,16 @@
 {
-  "name": "@signumjs/wallets",
-  "version": "1.0.0-rc.75",
-  "description": "Wallets communication package for DApps in the Signum Network",
+  "name": "@turajs/wallets",
+  "version": "1.0.0",
+  "description": "Wallets communication package for DApps in the Tura Network",
   "keywords": [
-    "signum",
-    "signum-network",
+    "tura",
+    "tura-network",
     "blockchain",
     "smartcontracts",
     "crypto",
     "cryptography",
     "cryptocoin",
-    "signumjs",
+    "turajs",
     "dapps",
     "web3"
   ],
@@ -19,7 +19,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/signum-network/signumjs"
+    "url": "https://github.com/TuraBlockchain/turajs"
   },
   "engines": {
     "node": ">=10"
@@ -57,7 +57,7 @@
     "readme": "jsdoc2md  --files ./src/*.ts --template ./README.md.hbs --configure ../../jsdoc2md.json > ./README.md"
   },
   "dependencies": {
-    "@signumjs/util": "^1.0.0-rc.75",
+    "@turajs/util": "^1.0.0",
     "uuid": "^8.3.2"
   },
   "husky": {
@@ -70,7 +70,7 @@
     "access": "public"
   },
   "peerDependencies": {
-    "@signumjs/core": "^1.0.0-rc.55",
-    "@signumjs/crypto": "^1.0.0-rc.55"
+    "@turajs/core": "^1.0.0-rc.55",
+    "@turajs/crypto": "^1.0.0-rc.55"
   }
 }

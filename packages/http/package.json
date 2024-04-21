@@ -1,14 +1,14 @@
 {
-  "name": "@signumjs/http",
-  "description": "SignumJS Generic Http Module",
-  "version": "1.0.0-rc.75",
+  "name": "@turajs/http",
+  "description": "Turajs Generic Http Module",
+  "version": "1.0.0",
   "keywords": [
-    "signum",
-    "signum-network",
+    "tura",
+    "tura-network",
     "blockchain",
     "smartcontracts",
     "http",
-    "signumjs"
+    "turajs"
   ],
   "contributors": [
     "ohager",
@@ -16,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/signum-network/signumjs"
+    "url": "https://github.com/TuraBlockchain/turajs"
   },
   "engines": {
     "node": ">=10"

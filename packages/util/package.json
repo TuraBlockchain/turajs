@@ -1,14 +1,14 @@
 {
-  "name": "@signumjs/util",
-  "version": "1.0.0-rc.75",
-  "description": "Useful utilities and tools for building Signum Network applications",
+  "name": "@turajs/util",
+  "version": "1.0.0",
+  "description": "Useful utilities and tools for building Tura Network applications",
   "keywords": [
-    "signum",
-    "signum-network",
+    "tura",
+    "tura-network",
     "blockchain",
     "smartcontracts",
     "utils",
-    "signumjs"
+    "turajs"
   ],
   "contributors": [
     "ohager",
@@ -16,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/signum-network/signumjs"
+    "url": "https://github.com/TuraBlockchain/turajs"
   },
   "engines": {
     "node": ">=10"

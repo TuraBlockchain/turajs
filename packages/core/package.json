@@ -1,16 +1,16 @@
 {
-  "name": "@signumjs/core",
-  "version": "1.0.0-rc.75",
-  "description": "Principal package with functions and models for building Signum Network applications.",
+  "name": "@turajs/core",
+  "version": "1.0.0",
+  "description": "Principal package with functions and models for building Tura Network applications.",
   "keywords": [
-    "signum",
-    "signum-network",
+    "tura",
+    "tura-network",
     "blockchain",
     "smartcontracts",
     "crypto",
     "cryptography",
     "cryptocoin",
-    "signumjs"
+    "turajs"
   ],
   "contributors": [
     "ohager",
@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/signum-network/signumjs"
+    "url": "https://github.com/TuraBlockchain/turajs"
   },
   "engines": {
     "node": ">=10"
@@ -57,10 +57,10 @@
     "readme": "jsdoc2md  --files ./src/**/*.ts --template ./README.md.hbs --configure ../../jsdoc2md.json > ./README.md"
   },
   "dependencies": {
-    "@signumjs/contracts": "^1.0.0-rc.75",
-    "@signumjs/crypto": "^1.0.0-rc.75",
-    "@signumjs/http": "^1.0.0-rc.75",
-    "@signumjs/util": "^1.0.0-rc.75",
+    "@turajs/contracts": "^1.0.0",
+    "@turajs/crypto": "^1.0.0",
+    "@turajs/http": "^1.0.0",
+    "@turajs/util": "^1.0.0",
     "bignumber.js": "^9.0.0"
   },
   "husky": {

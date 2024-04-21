@@ -1,21 +1,21 @@
 {
-  "name": "@signumjs/monitor",
-  "description": "Monitor transactions on Signum Network blockchain",
-  "version": "1.0.0-rc.75",
+  "name": "@turajs/monitor",
+  "description": "Monitor transactions on Tura Network blockchain",
+  "version": "1.0.0",
   "keywords": [
-    "signum",
-    "signum-network",
+    "tura",
+    "tura-network",
     "blockchain",
     "smartcontracts",
     "monitor",
-    "signumjs"
+    "turajs"
   ],
   "contributors": [
     "ohager"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/signum-network/signumjs"
+    "url": "https://github.com/TuraBlockchain/turajs"
   },
   "engines": {
     "node": ">=10"
