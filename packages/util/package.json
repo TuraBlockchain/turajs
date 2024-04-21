@@ -1,6 +1,6 @@
 {
   "name": "@turajs/util",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Useful utilities and tools for building Tura Network applications",
   "keywords": [
     "tura",
@@ -58,7 +58,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "42b6544b6e5af00151a23c8283ccefe5c0ea75e6",
+  "gitHead": "a6c55c694e1ca541b646185f14fdbdfd0710799c",
   "dependencies": {
     "bignumber.js": "^9.0.0",
     "js-base64": "^3.6.0"

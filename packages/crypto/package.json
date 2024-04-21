@@ -1,6 +1,6 @@
 {
   "name": "@turajs/crypto",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Cryptographic functions for building Tura Network apps.",
   "keywords": [
     "tura",
@@ -65,7 +65,7 @@
       "pre-push": "npm test"
     }
   },
-  "gitHead": "42b6544b6e5af00151a23c8283ccefe5c0ea75e6",
+  "gitHead": "a6c55c694e1ca541b646185f14fdbdfd0710799c",
   "publishConfig": {
     "access": "public"
   }

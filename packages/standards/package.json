@@ -1,7 +1,7 @@
 {
   "name": "@turajs/standards",
   "description": "Turajs Standards (SRC) tooling package",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "keywords": [
     "tura",
     "tura-network",
@@ -51,7 +51,7 @@
   },
   "dependencies": {
     "@braintree/sanitize-url": "^6.0.1",
-    "@turajs/core": "^1.0.3"
+    "@turajs/core": "^1.0.4"
   },
   "peerDependencies": {
     "@turajs/core": "^1.0.0-rc.55"
@@ -61,7 +61,7 @@
       "pre-push": "npm test"
     }
   },
-  "gitHead": "42b6544b6e5af00151a23c8283ccefe5c0ea75e6",
+  "gitHead": "a6c55c694e1ca541b646185f14fdbdfd0710799c",
   "publishConfig": {
     "access": "public"
   }
