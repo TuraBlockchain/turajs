@@ -1,6 +1,6 @@
 {
   "name": "@turajs/wallets",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wallets communication package for DApps in the Tura Network",
   "keywords": [
     "tura",
@@ -57,7 +57,7 @@
     "readme": "jsdoc2md  --files ./src/*.ts --template ./README.md.hbs --configure ../../jsdoc2md.json > ./README.md"
   },
   "dependencies": {
-    "@turajs/util": "^1.0.0",
+    "@turajs/util": "^1.0.1",
     "uuid": "^8.3.2"
   },
   "husky": {
