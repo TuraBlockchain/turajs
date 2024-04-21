@@ -1,7 +1,7 @@
 {
   "name": "@turajs/http",
   "description": "Turajs Generic Http Module",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "keywords": [
     "tura",
     "tura-network",
@@ -59,7 +59,7 @@
       "pre-push": "npm test"
     }
   },
-  "gitHead": "1388156deae3a6d83b289377ad8e10f86e84dd3c",
+  "gitHead": "42b6544b6e5af00151a23c8283ccefe5c0ea75e6",
   "publishConfig": {
     "access": "public"
   }
