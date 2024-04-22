@@ -1,6 +1,6 @@
 {
   "name": "@turajs/contracts",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Smart Contracts package for Tura Network",
   "keywords": [
     "tura",
@@ -54,7 +54,7 @@
     "readme": "jsdoc2md  --files ./src/*.ts --template ./README.md.hbs --configure ../../jsdoc2md.json > ./README.md"
   },
   "dependencies": {
-    "@turajs/util": "^1.0.7"
+    "@turajs/util": "^1.0.8"
   },
   "husky": {
     "hooks": {

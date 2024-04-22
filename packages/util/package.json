@@ -1,6 +1,6 @@
 {
   "name": "@turajs/util",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Useful utilities and tools for building Tura Network applications",
   "keywords": [
     "tura",
