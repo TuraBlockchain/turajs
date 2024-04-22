@@ -1,7 +1,7 @@
 {
   "name": "@turajs/monitor",
   "description": "Monitor transactions on Tura Network blockchain",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "keywords": [
     "tura",
     "tura-network",
