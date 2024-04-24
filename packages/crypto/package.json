@@ -1,6 +1,6 @@
 {
   "name": "@turajs/crypto",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Cryptographic functions for building Tura Network apps.",
   "keywords": [
     "tura",
