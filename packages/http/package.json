@@ -1,7 +1,7 @@
 {
   "name": "@turajs/http",
   "description": "Turajs Generic Http Module",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "keywords": [
     "tura",
     "tura-network",

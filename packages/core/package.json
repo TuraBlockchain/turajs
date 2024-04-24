@@ -1,6 +1,6 @@
 {
   "name": "@turajs/core",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Principal package with functions and models for building Tura Network applications.",
   "deprecations": "",
   "keywords": [
@@ -58,10 +58,10 @@
     "readme": "jsdoc2md  --files ./src/**/*.ts --template ./README.md.hbs --configure ../../jsdoc2md.json > ./README.md"
   },
   "dependencies": {
-    "@turajs/contracts": "^1.0.10",
-    "@turajs/crypto": "^1.0.10",
-    "@turajs/http": "^1.0.10",
-    "@turajs/util": "^1.0.10",
+    "@turajs/contracts": "^1.0.11",
+    "@turajs/crypto": "^1.0.11",
+    "@turajs/http": "^1.0.11",
+    "@turajs/util": "^1.0.11",
     "bignumber.js": "^9.0.0"
   },
   "husky": {
